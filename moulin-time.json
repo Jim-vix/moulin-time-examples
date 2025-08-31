@@ -1,0 +1,8 @@
+{
+  "name": "Moulin Time API",
+  "description": "Timezone conversion & recurring events. Bot-friendly metered pricing.",
+  "base_url": "https://moulin-time-jimvix.fly.dev",
+  "docs": "https://jim-vix.github.io/-moulin-time-site/",
+  "rapidapi": "https://rapidapi.com/moulin-time-moulin-time-default/api/moulin-time-api",
+  "pricing": "€0.0001 per call (metered via Stripe)"
+}
