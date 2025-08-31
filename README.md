@@ -1,6 +1,7 @@
 # Moulin Time API — Examples
 
-Tiny, bot‑friendly API for timezone & recurring events. Base URL:
+**Landing / Docs:** https://jim-vix.github.io/-moulin-time-site/  
+**RapidAPI:** https://rapidapi.com/moulin-time-moulin-time-default/api/moulin-time-apiTiny, bot‑friendly API for timezone & recurring events. Base URL:
 `https://moulin-time-jimvix.fly.dev`
 
 ## Quick examples
